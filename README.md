@@ -27,27 +27,27 @@
 <div id="projects">
   <h3>⚡ Featured Projects:</h3>
    <div>
-    <img src="" title="Saborify" alt="Saborify Project" width="auto" height="200" style="border: 1px solid black"/>
+    <img src="./Img/Saforify.png" title="Saborify" alt="Saborify Project" width="auto" height="200" style="border: 1px solid black"/>
     <br>
-    <a href="">Star Wars Blog Project</a>
+    <a href="https://github.com/Carlos-Meneses1/Saborify-Project.git">Star Wars Blog Project</a>
     <p>A web application built with React and Flask, featuring authentication and third-party API integration, that allows users to explore food recipe data, including caloric requirements and ingredients, all within an interactive and responsive        interface.</p>
   </div>
   <div>
-    <img src="" title="Star Wars Blog Project" alt="Star Wars Blog Project" width="auto" height="200" style="border: 1px solid black"/>
+    <img src="./Img/StarWars.png" title="Star Wars Blog Project" alt="Star Wars Blog Project" width="auto" height="200" style="border: 1px solid black"/>
     <br>
-    <a href="">Star Wars Blog Project</a>
+    <a href="https://github.com/Carlos-Meneses1/Starwars-blog-reading-list---MenesesCarlos.git">Star Wars Blog Project</a>
     <p>A React and Flask-based web application that allows users to explore Star Wars universe data through an interactive and responsive interface.</p>
   </div>
    <div>
-    <img src="" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200" style="border: 1px solid black"/>
+    <img src="./Img/Autent.png" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200" style="border: 1px solid black"/>
     <br>
-    <a href="">LoginRegisterPage</a>
+    <a href="https://github.com/Carlos-Meneses1/Authentication-system---Meneses-Carlos.git">LoginRegisterPage</a>
     <p>A project focused on developing a simple login page using JWT authentication, built with HTML, CSS, and React.</p>
   </div>
   <div>
-    <img src="" title="TODO List" alt="TODO List" width="auto" height="200" style="border: 1px solid black"/>
+    <img src="./Img/todoList.png" title="TODO List" alt="TODO List" width="auto" height="200" style="border: 1px solid black"/>
     <br>
-    <a href="">TODO List</a>
+    <a href="https://github.com/Carlos-Meneses1/Todolist-With-React-MenesesCarlos.git">TODO List</a>
     <p>A web application for managing to-do lists, featuring task addition, completion, and deletion with a responsive design.</p>
   </div>
 <hr>
@@ -72,7 +72,6 @@
 <div id="badges" align="center">
   <a href="mailto:carlosocharly1@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/cvmenesesm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 <hr>
 <div align="center">
