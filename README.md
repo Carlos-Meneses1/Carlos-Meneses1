@@ -91,7 +91,7 @@
 <div id="contact" align="center">
   <h3>📧 Contacto: carlosocharly1@hotmail.com</h3>
   <p>
-    Si estás interesado en colaborar en un proyecto o conversar sobre desarrollo Front-End, no dudes en contactarme.
+    Si estás interesado en colaborar en un proyecto o conversar sobre desarrollo Full Stack, no dudes en contactarme.
   </p>
 </div>
 
